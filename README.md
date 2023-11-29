@@ -1,33 +1,23 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" 
-  src="https://static.wikia.nocookie.net/debatesjungle/images/1/14/Gen4RedBattle.png/revision/latest/scale-to-width-down/200?cb=20210806053421">
+<img align="right" height="590em"  src="https://raw.githubusercontent.com/gist/ChrisIsacDev/2e66ffabab1d483a98611895b4007364/raw/98caed493c6c369ec5ed35dd58dadd90d55311cf/GithubCard.svg">
 
-<h1 align="left">
-    <a href="https://chrisisacdev.github.io/IsacEvolve.me/">
-     <img align="center" alt="Logo ChrisIsacDev" width="40px"
-       src="https://pokedata.org/wp-content/uploads/2023/01/pngaaa.com-259314.png"></a>
-    <span>ChrisIsacDev</span>
-</h1>
+<h1 align="left"> Hello There</h1>
+<p>My name is Christoffer Isac, I'm a 15-year-old, a programming student, I have knowledge in the area of ​​design, but my main focus currently is Front-end development</p>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=CF11FF&color:FFF)](https://www.linkedin.com/in/christoffer-isac-539b1b204/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=CF11FF&color:FFF)](https://www.instagram.com/isacevolve/)
 
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ChrisIsacDev&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=d53141&text_color=FFF&border_radius=5&border_color=d53141&icon_color=d53141&theme=jolly)
 
-
-  <p align="justify">Hello there! My name is Chris, I'm a 15-year-old, a programming student, and i'm also a designer,
-  but my main focus currently is Front-End development, I have knowledge of the Html, Css and Javascript languages
-<br>
-Be free to take a look at my profile on linkedin, and make sure to view my projects on Github.
-  <a href="www.linkedin.com/in/christoffer-isac">(Click here and take a look)</a>.</p>
-  
-<h3 align="left">Contact me</h3>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=f6bd20&color:FFF)](https://www.linkedin.com/in/christoffer-isac-539b1b204/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=f6bd20&color:FFF)](https://www.instagram.com/isacevolve/)
-
-<h2>Badges</h2>
+<h2 align="left">Main Skills</h2>
 <p align="left" grid-gap="20px">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,html,css,javascript" />
+      <img src="https://skillicons.dev/icons?i=figma,html,css,javascript,typescript,angular" />
   </a>
 </p>
 
-<br>
+<a href="https://chrisisacdev.github.io/ChrisIsacDev-Portfolio/"> <img align="left" height="150px" src="https://raw.githubusercontent.com/gist/ChrisIsacDev/ca8201f00444c34e4587565476904470/raw/29f0fb6d76775a95f245d61aa824203a896c2679/MiniCard.svg"> </a>
+<a href="https://inicianti.vercel.app">
+<img align="left" height="150px" src="https://raw.githubusercontent.com/gist/ChrisIsacDev/38ad1a1f4ab3ef0313740141bc2af929/raw/53954e7a26c6f3188dece8b98b92bff3f9bc2d44/MiniCard2.svg"> </a>
+<a href="https://www.instagram.com/isacevolve/">
+<img align="left" height="150px" src="https://raw.githubusercontent.com/gist/ChrisIsacDev/90230af1d282e6b0d64a51a84493bee7/raw/80135bb499ae28b2b40fb2eab675e0c232e47aa5/MiniCard3.svg"> </a>
+
