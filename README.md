@@ -19,5 +19,5 @@
 <a href="https://inicianti.vercel.app">
 <img align="left" height="150px" src="https://raw.githubusercontent.com/gist/ChrisIsacDev/38ad1a1f4ab3ef0313740141bc2af929/raw/53954e7a26c6f3188dece8b98b92bff3f9bc2d44/MiniCard2.svg"> </a>
 <a href="https://www.instagram.com/isacevolve/">
-<img align="left" height="150px" src="https://raw.githubusercontent.com/gist/ChrisIsacDev/90230af1d282e6b0d64a51a84493bee7/raw/80135bb499ae28b2b40fb2eab675e0c232e47aa5/MiniCard3.svg"> </a>
+
 
