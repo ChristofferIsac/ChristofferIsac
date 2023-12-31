@@ -10,12 +10,16 @@
 </tr>
 </table>
 
-
+<div align="center">
+<h2> UX Designer | Tech Instructor | Front-end </h2>
+  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=01B6F8&color:FFF)](https://www.linkedin.com/in/christoffer-isac-539b1b204/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=01B6F8&color:FFF)](https://www.instagram.com/isacevolve/)
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Gmail&logoColor=01B6F8&color:FFF)](christofferprofissao@gmail.com)
 
+</div>
 
-
+<div align="center">
 <h2 align="left">Main Skills</h2>
 
 <table>
@@ -29,3 +33,4 @@
 </td>
 </tr>
 </table>
+</div>
