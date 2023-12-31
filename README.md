@@ -1,6 +1,6 @@
 <h1 align="left"> Hello There</h1>
 
-
+<img src="Banner.svg">
 
 <table style="border-collapse: collapse; border: none;">
 <tr>
