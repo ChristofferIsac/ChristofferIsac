@@ -11,7 +11,8 @@
 </table>
 
 <div align="center">
-<h2> UX Designer | Tech Instructor | Front-end </h2>
+<h2> UX Designer | Tech Instructor | Front-end 
+</h2>
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=01B6F8&color:FFF)](https://www.linkedin.com/in/christoffer-isac-539b1b204/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=01B6F8&color:FFF)](https://www.instagram.com/isacevolve/)
@@ -20,17 +21,11 @@
 </div>
 
 <div align="center">
-<h2 align="left">Main Skills</h2>
+<h2 align="center">Main Skills</h2>
 
-<table>
-  <tr>
-  <td>
-<p align="left" grid-gap="20px">
+<p align="center" grid-gap="20px">
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=figma,html,css,javascript,typescript,angular" />
   </a>
 </p>
-</td>
-</tr>
-</table>
 </div>
