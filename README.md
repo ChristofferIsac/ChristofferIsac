@@ -8,15 +8,16 @@ Me chamo Christoffer Isac, sou um jovem de 16 anos, atuo hoje no mercado como De
 
 <p align="left" grid-gap="20px">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,java,kotlin" />
+      <img src="https://skillicons.dev/icons?i=vscode,idea,java,kotlin,cs" />
   </a>
 </p>
 
 <h3> UX Design </h3>
-<p>  Pesquisa e Análise de Usuário
-- Prototipagem e Wireframing
-- Testes de Usabilidade
-- Design de Interação </p>
+<p align="left" grid-gap="20px">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+  </a>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=01B6F8&color:FFF)](https://www.linkedin.com/in/christoffer-isac-539b1b204/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=01B6F8&color:FFF)](https://www.instagram.com/isacevolve/)
