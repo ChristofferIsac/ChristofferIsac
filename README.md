@@ -8,7 +8,7 @@ Me chamo Christoffer Isac, sou um jovem de 16 anos, atuo hoje no mercado como De
 
 <p align="left" grid-gap="20px">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,idea,java,kotlin,cs" />
+      <img src="https://skillicons.dev/icons?i=vscode,idea,java,kotlin,cs,cpp" />
   </a>
 </p>
 
