@@ -31,7 +31,7 @@
 
 </div>
 
-<div align="center"> 
+<div align="left"> 
 
 ## Tecnologias utlizadas por mim
 <p>As tecnologias mais utilizadas por mim no desenvolvimento dos meus projetos</p>
@@ -50,7 +50,7 @@
 </p>
 
 ## Tecnologias em estudo
-<p>As tecnologias que estou estudando no momento. Cursos em andamento:</p>
+<p>As tecnologias que estou estudando no momento.</p>
 
 <p grid-gap="20px">
 
@@ -62,7 +62,7 @@
 </p>
 </div>
 
-<div align="center">
+<div align="left">
 
 ### Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0066FF&color:FFF)](https://www.linkedin.com/in/christoffer-isac-539b1b204/)
