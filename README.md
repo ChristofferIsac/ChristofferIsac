@@ -24,9 +24,12 @@
 
 <p>
  Nerd apaixonado pelo universo geek;
+
+ Programador Criqtivo
   
  Aprendendo mais a cada dia, não há desafio que me pare; 
-  
+
+
 </p>
 
 </div>
@@ -38,7 +41,6 @@
 <p grid-gap="20px">
 
 ![Java](https://img.shields.io/badge/Java-0066FF?style=for-the-badge&logo=vscode&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-0066FF?style=for-the-badge&logo=vscode&logoColor=white)
 ![Springboot](https://img.shields.io/badge/Springboot-0066FF?style=for-the-badge&logo=vscode&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-0066FF?style=for-the-badge&logo=vscode&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-0066FF?style=for-the-badge&logo=vscode&logoColor=white)
@@ -67,6 +69,7 @@
 ### Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0066FF&color:FFF)](https://www.linkedin.com/in/christoffer-isac-539b1b204/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0066FF&color:FFF)](https://www.instagram.com/isacevolve/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=Website&logoColor=0066FF&color:FFF)](https://www.instagram.com/isacevolve/)
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Gmail&logoColor=0066FF&color:FFF)](mailto:christofferprofissao@gmail.com)
 </div>
 </div>
