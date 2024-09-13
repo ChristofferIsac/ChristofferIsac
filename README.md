@@ -57,6 +57,7 @@
 <p grid-gap="20px">
 
 ![MySql](https://img.shields.io/badge/MySQL-0066FF?style=for-the-badge&logo=vscode&logoColor=white)
+![Csharp](https://img.shields.io/badge/CSharp-0066FF?style=for-the-badge&logo=vscode&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0066FF?style=for-the-badge&logo=vscode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0066FF?style=for-the-badge&logo=vscode&logoColor=white)
 ![Aws](https://img.shields.io/badge/Aws-0066FF?style=for-the-badge&logo=vscode&logoColor=white)
