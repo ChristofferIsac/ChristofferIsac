@@ -25,7 +25,7 @@
 <p>
  Nerd apaixonado pelo universo geek;
 
- Programador Criqtivo
+ Programador Criativo
   
  Aprendendo mais a cada dia, não há desafio que me pare; 
 
